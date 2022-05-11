@@ -156,9 +156,6 @@ REST_FRAMEWORK = {
 SOCIALACCOUNT_PROVIDERS = {
     'google': {
         'APP': {
-            'client_id': '127120686626-kc41bajtg0l0od0iihtf3nastgh6171o.apps.googleusercontent.com',
-            'secret': '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',
-            'key': ''
         },
         'SCOPE': [
             'profile',
@@ -188,9 +185,6 @@ SOCIALACCOUNT_PROVIDERS = {
         'VERSION': 'v13.0',
 
          'APP': {
-             'client_id': '1046743372892631',  # !!! THIS App ID
-             'secret': '4204e1a243957db060732bc503d82903',
-             'key': ''
                 }
     }
     
